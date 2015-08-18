@@ -1,7 +1,7 @@
 Module Dump
 =====================
 Collection of patches and small enhancements for GCconnex (Government of Canada instance of Elgg)
-
+   
 Contents
 --------
 1. Module Dependencies
